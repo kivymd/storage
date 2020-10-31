@@ -1,0 +1,7 @@
+# Directories and files that cannot be commited to git
+
+# Editors
+.vscode
+.ipynb_checkpoints
+*.swp
+.idea
